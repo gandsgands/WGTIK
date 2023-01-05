@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1672666823 source:c:\users\muham\desktop\movieproject\main.cpp
+	<iostream>
+	"movie.h"
+	"menu.h"
+
+1672666745 c:\users\muham\desktop\movieproject\movie.h
+	<iostream>
+
+1672666836 source:c:\users\muham\desktop\movieproject\movie.cpp
+	"movie.h"
+
+1672644358 c:\users\muham\desktop\movieproject\menu.h
+	<iostream>
+
+1672663443 source:c:\users\muham\desktop\movieproject\menu.cpp
+	"menu.h"
+
+1672666823 source:d:\coolyeah\struktur data\tugasbesar_std_movieproject_if4511\movieproject\main.cpp
+	<iostream>
+	"movie.h"
+	"menu.h"
+
+1672666745 d:\coolyeah\struktur data\tugasbesar_std_movieproject_if4511\movieproject\movie.h
+	<iostream>
+
+1672644358 d:\coolyeah\struktur data\tugasbesar_std_movieproject_if4511\movieproject\menu.h
+	<iostream>
+
+1672663443 source:d:\coolyeah\struktur data\tugasbesar_std_movieproject_if4511\movieproject\menu.cpp
+	"menu.h"
+
+1672667135 source:d:\coolyeah\struktur data\tugasbesar_std_movieproject_if4511\movieproject\movie.cpp
+	"movie.h"
+
